@@ -12,33 +12,33 @@ colors:
     blue - #1fabe5
     dark blue - #046c97
 */
-body{
+
+body {
   font-family: Helvetica, Arial, sans-serif;
   background-color: #dddddd;
 }
 
-body > div{
+body>div {
   margin: auto;
   width: 80%;
   background-color: white;
   border: solid 3px #ffd24a;
 }
 
-
-#site_header{
+#site_header {
   background-color: #ff8523;
   padding: 3%;
 }
 
-header > a{
+header>a {
   margin-bottom: 3%;
 }
 
-nav{
+nav {
   padding: 2%;
 }
 
-nav > a{
+nav>a {
   padding: .5%;
   padding-right: 2%;
   padding-left: 2%;
@@ -48,33 +48,33 @@ nav > a{
   border-radius: 9%;
 }
 
-#page_content{
+#page_content {
   margin: 3%;
 }
 
-#page_content section{
+#page_content section {
   padding: 10px;
   padding-bottom: 40px;
   border-bottom: solid 3px #d3d3d3;
 }
 
-#page_content  h2{
+#page_content h2 {
   color: #1fabe5;
 }
 
-#page_content a{
+#page_content a {
   color: #1fabe5;
 }
 
-#page_content h3{
+#page_content h3 {
   color: #1fabe5;
 }
 
-#page_content ul{
+#page_content ul {
   font-weight: bold;
 }
 
-#page_content table{
+#page_content table {
   border-collapse: collapse;
   height: 20%;
   width: 100%;
@@ -85,56 +85,52 @@ nav > a{
   text-align: center;
 }
 
-#page_content thead tr td{
+#page_content thead tr td {
   border: solid 1.5px #046c97;
   background-color: #1fabe5;
   color: white;
   padding: 2%;
 }
 
-#page_content tbody tr td{
+#page_content tbody tr td {
   border: solid 2px #1fabe5;
 }
 
-#page_content td img{
+#page_content td img {
   height: 50%;
   width: 50%;
 }
 
-form{
+form {
   border-radius: 1.5%;
   background-color: #d3d3d3;
   padding: 2%;
 }
 
-.name{
+.name {
   border-radius: 12px;
   background-color: #ff8523;
   padding: 2%;
   color: white;
 }
 
-.name input{
+.name input {
   height: 30px;
   width: 150px;
 }
 
-.city_container{
+.city_container {
   padding-top: 2%;
   padding-bottom: 2%;
   font-weight: bold;
 }
 
-#city{
-  
-}
-
-label{
+label {
   font-weight: bold;
   margin-bottom: 8%;
 }
 
-textarea{
+textarea {
   margin-top: 1.5%;
   margin-bottom: 1.5%;
   border: solid #1fabe5;
@@ -142,7 +138,7 @@ textarea{
   font-size: 15px;
 }
 
-.submit_container input{
+.submit_container input {
   background-color: #1fabe5;
   color: white;
   width: 10%;
@@ -151,7 +147,7 @@ textarea{
   font-weight: bold;
 }
 
-#submit_button{
+#submit_button {
   border-radius: 12px;
   border-style: none;
 }
